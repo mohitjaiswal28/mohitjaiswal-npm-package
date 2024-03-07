@@ -1,0 +1,14 @@
+{
+  "name": "mohitjaiswal",
+  "version": "1.0.2",
+  "description": "Mohit Jaiswal Portfolio",
+  "main": "mohitjaiswal.js",
+  "scripts": {
+    "postinstall": "node mohitjaiswal.js"
+  },
+  "author": "Mohit Jaiswal",
+  "license": "ISC",
+  "keywords": [
+    "Mohit Jaiswal"
+  ]
+}
